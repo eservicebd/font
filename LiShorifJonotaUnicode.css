@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'LiShorifJonotaUnicode'; /* Name you'll use to reference the font */
+  src: url('LiShorifJonotaUnicode.woff2') format('woff2'),
+       url('LiShorifJonotaUnicode.woff') format('woff'),
+       url('LiShorifJonotaUnicode.ttf') format('truetype'); /* Only if supporting older browsers */
+  font-weight: normal;  /* Set the desired font weight */
+  font-style: normal;   /* Set the desired font style */
+}
